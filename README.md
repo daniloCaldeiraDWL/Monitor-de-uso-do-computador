@@ -2,6 +2,7 @@
   Monitor de Uso  --  Documentação
 ================================================================
 
+
 COMO INSTALAR
 -------------
 1. Extraia a pasta em qualquer local (ex: C:\Monitor de Uso)
